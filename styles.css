@@ -1,0 +1,12 @@
+div.container.text-center {
+    display: flex;
+}
+div.container .image-center {
+    flex-direction: column;
+}
+div.header h2 {
+    font-size: small;
+}
+.container .navbar-brand {
+    justify-content: left;
+}
